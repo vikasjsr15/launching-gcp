@@ -1,1 +1,4 @@
-# This is the first repo file for update again 2
+# Docker Flask Application
+
+- This application is written in Python
+- It shall be deployed on GKE
